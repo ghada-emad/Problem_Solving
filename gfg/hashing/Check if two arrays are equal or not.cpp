@@ -7,8 +7,7 @@
             if(A[i]==B[i]){
                 count++;
             }
-        }
-        
+        }    
         if(count==N){
             return true;
         }else{
@@ -17,3 +16,5 @@
     }
     
 };
+
+
